@@ -2,9 +2,9 @@
   "name": "hello-node",
   "version": "1.0.0",
   "description": "Hello world, in NodeJS!",
-  "main": "index.js",
+  "main": "helloworld.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node helloworld.js"
   },
   "author": "Carolina Knoll",
   "license": "ISC"
